@@ -52,6 +52,9 @@ header img {
 	padding: 0;
 	position: relative;
 }
+video {
+	width: 100%; 
+}
 #nav_menu ul li {
 	float: left;
 }
